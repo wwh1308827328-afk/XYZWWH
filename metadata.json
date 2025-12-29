@@ -1,0 +1,7 @@
+{
+  "name": "Merry Christmas Magic",
+  "description": "An interactive 3D Christmas experience featuring a particle-based tree, photo memories, and hand-gesture controls powered by MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
